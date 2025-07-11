@@ -1,0 +1,10 @@
+Jun 09 12:01:35.992 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Jun 09 12:01:35.994 HYPERVISOR: Started on TCP port = 60299.
+Jun 09 12:01:36.473 HYPERVISOR: exec_cmd: hypervisor version 
+Jun 09 12:01:36.474 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\mello\Desktop\Licenta\Proiecte GNS3 LICENTA\UVT\Parter\Laboratoare\Sala 003\project-files\dynamips 
+Jun 09 12:01:36.480 GENERAL: working_dir=C:\Users\mello\Desktop\Licenta\Proiecte GNS3 LICENTA\UVT\Parter\Laboratoare\Sala 003\project-files\dynamips
+Jun 09 12:01:36.481 HYPERVISOR: exec_cmd: ethsw create Switch1 
+Jun 09 12:01:52.621 HYPERVISOR: exec_cmd: ethsw delete Switch1 
+Jun 09 12:01:52.623 HYPERVISOR: exec_cmd: hypervisor stop 
+Jun 09 12:01:52.732 HYPERVISOR: Stopped.
+Jun 09 12:01:52.733 GENERAL: reset done.
